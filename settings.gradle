@@ -1,0 +1,2 @@
+rootProject.name='AlQuranRetrofit'
+include ':app'
